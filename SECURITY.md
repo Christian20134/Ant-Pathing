@@ -1,5 +1,9 @@
 # Security Policy
 
+If you discover a security vulnerability in this project, please open a GitHub security advisory or email [your email here].
+
+We support responsible disclosure and will respond promptly.
+
 ## Supported Versions
 
 Use this section to tell people about which versions of your project are
